@@ -1,7 +1,7 @@
 # TinyToes
 
 ## Overview
-TinyToes is a comprehensive web platform designed to help parents understand and care for their babies using advanced AI technology. It offers features such as baby cry analysis, milestone tracking, expert consultations, and a nanny booking service to provide seamless support to parents.
+TinyToes is a comprehensive web platform designed to help parents understand and care for their babies using advanced AI technology. It offers features such as baby cry analysis, milestone tracking, expert consultations, and a nanny booking service to provide seamless support to parents  throughout their child’s early development.
 
 
 ## Technology Stack
